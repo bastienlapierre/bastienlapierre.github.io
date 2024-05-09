@@ -21,14 +21,14 @@ repository               : "bastienlapierre.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile_lapierre.png"
   name             : "Bastien Lapierre"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Fellow at Princeton"
   location         : "Princeton, USA"
-  employer         : ""
+  employer         : 
   uri              : # URL
-  email            : "" 
+  email            : 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
