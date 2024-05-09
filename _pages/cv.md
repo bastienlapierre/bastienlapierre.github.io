@@ -12,16 +12,20 @@ redirect_from:
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
+* 2023-Now: Postdoctoral Research Fellow, Princeton University
+  * Supervisor: Shinsei Ryu
+ 
+* 2019-2023: Research Assistant, University of Zürich
+  * Supervisor: Titus Neupert
 
 Education
 ======
 * Ph.D in Physics, University of Zürich, 2023
+  * Supervisors: Titus Neupert and Luka Trifunovic
+  * Thesis title: "Inhomogeneous and Disordered Quantum Systems: From Dynamics to Topology"
 * M.Sc. in Physics, ETH Zürich, 2019
+  * Supervisor: Titus Neupert
+  * Thesis title: "Heating Dynamics in Floquet Conformal Field Theory"
 * B.Sc. in Physics, University of Geneva, 2017
 
 
