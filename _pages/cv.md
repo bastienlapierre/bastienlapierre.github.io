@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-Work experience
+Professional experience
 ======
 * 2023-Now: Postdoctoral Research Fellow, Princeton University
   * Supervisor: Shinsei Ryu
