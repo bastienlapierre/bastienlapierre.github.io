@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Bastien Lapierre"
 title_separator          : "-"
 name                     : &name "Bastien Lapierre"
-description              : &description "Postdoc @ Princeton University"
+description              : &description "Postdoc at Princeton University"
 url                      : https://bastienlapierre.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bastienlapierre.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_lapierre.png"
   name             : "Bastien Lapierre"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Fellow at Princeton"
+  bio              : "Postdoctoral Fellow @ Princeton University"
   location         : "Princeton, USA"
   employer         : 
   uri              : # URL
