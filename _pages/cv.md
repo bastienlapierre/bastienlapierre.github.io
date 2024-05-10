@@ -13,7 +13,7 @@ You can find my full CV <a href="https://bastienlapierre.github.io/CV.pdf" targe
 
 Professional experience
 ======
-* 2023-Now: Postdoctoral Research Fellow, Princeton University
+* 2023-Now: Postdoctoral Fellow, Princeton University
   * Supervisor: Shinsei Ryu
  
 * 2019-2023: Research Assistant, University of Zürich
