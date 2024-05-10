@@ -17,4 +17,4 @@ You can find my publications on the [arXiv](https://arxiv.org/a/lapierre_b_1.htm
 
 Contact
 ======
-You can contact me at blapierre(at)princeton.edu
+You can contact me at blapierre(at)princeton.edu.
