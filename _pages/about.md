@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hello there!"
+title: "Bastien Lapierre's webpage"
 author_profile: true
 redirect_from: 
   - /about/
