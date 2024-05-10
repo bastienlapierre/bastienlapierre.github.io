@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can find my full CV <a href="bastienlapierre.github.io/CV.pdf" target="_blank">here.</a>
+You can find my full CV <a href="https://bastienlapierre.github.io/CV.pdf" target="_blank">here.</a>
 
 Professional experience
 ======
