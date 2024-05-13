@@ -13,8 +13,9 @@ Hi! I am a postdoctoral fellow at Princeton University, working with [Shinsei Ry
 I aim to theoretically design new phases of quantum matter that emerge both in and out-of-equilibrium, and to understand the universality that underpins them. These include far-from-equilibrium phases arising in driven, dissipative or monitored quantum critical systems, as well as novel topological phases unique to strongly disordered matter.
 I employ various methods from condensed matter and quantum information to construct concrete models, and analyze their phase diagrams and their underlying universality classes.
 
-Concretely, some questions that I am currently investigating are “Do driven critical systems heat up and scramble in a universal way?” [[1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023085), [2](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.224303), [3](https://arxiv.org/abs/2405.01642)]
-“Are there phases unique to quasiperiodically driven systems?”, “Can there be any topology in a fully localized insulator?” [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.256401)],
+Concretely, some questions that I am currently investigating are “Do driven critical systems heat up and scramble in a universal way?” [[1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023085), [2](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.224303), [3](https://arxiv.org/abs/2405.01642)]\
+“Are there phases unique to quasiperiodically driven systems?”\
+“Can there be any topology in a fully localized insulator?” [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.256401)]\
 “Can one hear the shape of a quantum Hall droplet?” [[5](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011030)].
 
 You can find my publications on the [arXiv](https://arxiv.org/a/lapierre_b_1.html) and on [Google Scholar](https://scholar.google.com/citations?user=oGgrqHgAAAAJ&hl=en&oi=ao).
