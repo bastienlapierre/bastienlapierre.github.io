@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 
-I am a postdoctoral fellow at Princeton University, working with [Shinsei Ryu](https://phy.princeton.edu/people/shinsei-ryu). I obtained my PhD in theoretical condensed matter physics from the University of Zürich in 2023, under the supervision of [Titus Neupert](https://www.physik.uzh.ch/en/groups/neupert/team/neupert.html) and [Luka Trifunovic](https://www.lpt.ups-tlse.fr/spip.php?article1624&lang=fr).
+Hi! I am a postdoctoral fellow at Princeton University, working with [Shinsei Ryu](https://phy.princeton.edu/people/shinsei-ryu). I obtained my PhD in theoretical condensed matter physics from the University of Zürich in 2023, under the supervision of [Titus Neupert](https://www.physik.uzh.ch/en/groups/neupert/team/neupert.html) and [Luka Trifunovic](https://www.lpt.ups-tlse.fr/spip.php?article1624&lang=fr).
 
-My research focuses on various aspects of modern condensed matter theory, such as the non-equilibrium dynamics of quantum many-body systems, the interplay between topological phases of matter and Anderson localization, as well as the geometry of the quantum Hall effect.
+I aim to theoretically design new phases of quantum matter that emerge both in and out-of-equilibrium, and to understand the universality that underpins them. These include far-from-equilibrium phases arising in driven, dissipative or monitored quantum critical systems, as well as novel topological phases unique to strongly disordered matter.
+I employ various methods from condensed matter and quantum information to construct concrete models, and analyze their phase diagrams and underlying universality classes. Concretely, some questions that I am currently investigating are “Do driven critical systems heat up in a universal way?”, “Are there phases unique to quasiperiodically driven systems?”, “Can there be any topology in a fully localized insulator?”, “Can you hear the shape of a quantum Hall droplet?”.
 
 You can find my publications on the [arXiv](https://arxiv.org/a/lapierre_b_1.html) and on [Google Scholar](https://scholar.google.com/citations?user=oGgrqHgAAAAJ&hl=en&oi=ao).
 
