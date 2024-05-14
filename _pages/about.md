@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a postdoctoral fellow at Princeton University, working with [Shinsei Ryu](https://phy.princeton.edu/people/shinsei-ryu). I obtained my PhD in theoretical condensed matter physics from the University of Zürich in 2023, under the supervision of [Titus Neupert](https://www.physik.uzh.ch/en/groups/neupert/team/neupert.html) and [Luka Trifunovic](https://www.lpt.ups-tlse.fr/spip.php?article1624&lang=fr).
 
-I aim to theoretically design new phases of quantum matter that emerge both in and out-of-equilibrium, and to understand the universality that underpins them. These include far-from-equilibrium phases arising in driven, dissipative or monitored quantum critical systems, as well as topological phases unique to strongly disordered matter.
+I aim to theoretically design new phases of quantum matter that emerge both in and out-of-equilibrium, and to understand the universality that underpins them. These include far-from-equilibrium phases arising in driven, dissipative and monitored quantum critical systems, as well as topological phases unique to strongly disordered matter.
 I employ various methods from condensed matter and quantum many-body physics to construct concrete models, and explore their phase diagrams and their underlying universality classes.
 
 Some questions that I am currently investigating include:
