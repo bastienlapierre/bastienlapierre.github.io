@@ -15,7 +15,7 @@ I employ various methods from condensed matter and quantum many-body physics to 
 
 Some questions that I am currently investigating include:
 - What are universal heating and scrambling properties of driven critical systems? [[1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023085), [2](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.224303), [3](https://arxiv.org/abs/2405.01642)]
-- Can quasiperiodic time evolution stabilize new phases?
+- Can quasiperiodic time evolution stabilize new phases of matter?
 - Can a fully localized insulator be topological? [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.256401)]
 - Can one hear the shape of a quantum Hall droplet? [[5](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011030)]
 
