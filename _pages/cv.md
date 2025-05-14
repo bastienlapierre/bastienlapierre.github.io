@@ -24,6 +24,7 @@ Education
 * Ph.D in Physics, University of Zürich, 2023
   * Supervisors: Titus Neupert and Luka Trifunovic
   * Thesis title: "Inhomogeneous and Disordered Quantum Systems: From Dynamics to Topology"
+  * <a href="https://bastienlapierre.github.io/PhD_Thesis_Lapierre_2023.pdf" target="_blank">Manuscript</a>
 * M.Sc. in Physics, ETH Zürich, 2019
   * Supervisor: Titus Neupert
   * Thesis title: "Heating Dynamics in Floquet Conformal Field Theory"
