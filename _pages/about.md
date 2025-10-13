@@ -25,4 +25,4 @@ You can find my publications on the [arXiv](https://arxiv.org/a/lapierre_b_1.htm
 
 Contact
 ======
-You can contact me at bastien.lapierre(at)phys.ens.fr.
+Feel free to contact me at bastien.lapierre(at)phys.ens.fr.
