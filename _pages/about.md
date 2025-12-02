@@ -17,7 +17,7 @@ I employ various methods from condensed matter and quantum many-body physics to 
 Some questions that I am currently investigating include:
 - What are universal heating and scrambling features of driven critical systems? [[1](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023085), [2](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.103.224303), [3](https://arxiv.org/abs/2405.01642)]
 - Can quasiperiodic time evolution mitigate entanglement growth?
-- How to classify localized insulators? [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.256401) [5](https://arxiv.org/abs/2407.07957)]
+- How to classify localized insulators? [[4](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.129.256401), [5](https://arxiv.org/abs/2407.07957)]
 - Can one hear the shape of a quantum Hall droplet? [[6](https://journals.aps.org/prx/abstract/10.1103/PhysRevX.14.011030)]
 
 You can find my publications on the [arXiv](https://arxiv.org/a/lapierre_b_1.html) and on [Google Scholar](https://scholar.google.com/citations?user=oGgrqHgAAAAJ&hl=en&oi=ao).
